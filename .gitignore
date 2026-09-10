@@ -48,3 +48,5 @@ htmlcov/
 *.tmp
 *.temp
 *.log
+# Generated ChromaDB vector store
+support_assistant/data/chroma/
